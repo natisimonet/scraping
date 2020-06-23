@@ -3,8 +3,13 @@ Api Rest para scraping automático de etailers.
 
 ## Bienvenido al proyecto de Scraping Automático 
 
-Este proyecto permite la captura de las variables 
-**precio, promoción, stock, título, search.
+Este proyecto permite la captura de las variables:
+
+- precio 
+- promoción
+- stock
+- título
+- search  
 
 Los etailer automatizados fueron
 
