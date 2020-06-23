@@ -109,7 +109,7 @@ public class ControllerPut {
 		}
 	}
 
-//probarlos
+
 	@PutMapping(path = "/Reporte")
 	@PreAuthorize("hasRole('ADMIN')")
 	public ResponseEntity<Reporte> editarReporte(@RequestBody Reporte reporte) {
@@ -118,7 +118,7 @@ public class ControllerPut {
 		return new ResponseEntity<>(reporte, HttpStatus.OK);
 	}
 
-//probarlos
+
 	@PutMapping(path = "/ReporteSearch")
 	@PreAuthorize("hasRole('ADMIN')")
 	public ResponseEntity<ReporteSearch> editarReporteSearch(@RequestBody ReporteSearch reporte) {
