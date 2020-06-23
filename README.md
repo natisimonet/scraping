@@ -8,10 +8,10 @@ Este proyecto permite la captura de las variables
 
 Los etailer automatizados fueron
 
-https://www.veterinariasebastian.com/
-https://www.natural-life.com.ar/
-https://www.puppis.com.ar/
-https://www.canrock.com.ar/
+1. https://www.veterinariasebastian.com/
+2. https://www.natural-life.com.ar/
+3. https://www.puppis.com.ar/
+4. https://www.canrock.com.ar/
 
 ### Tecnologías y framework utilizadas
 
