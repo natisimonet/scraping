@@ -62,7 +62,7 @@ public class Metodos {
 	      // Reemplazamos
 	      caracteres[i + 1] = Character.toUpperCase(caracteres[i + 1]);
 		String nuevo = new String(caracteres);
-
+// cambiar esta lista hardcodeada por una tabla en SQL
 		List<String> tokens = new ArrayList<String>();
 		tokens.add("Old Prince");
 		tokens.add("Eukanuba");
