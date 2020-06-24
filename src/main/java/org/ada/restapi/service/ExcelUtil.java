@@ -25,6 +25,7 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+//Si bien es un service debería ponerlo en el paquete Util
 @Service
 public class ExcelUtil {
 
